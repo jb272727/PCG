@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://blj0ly7uc0ki8"]
+
+[ext_resource type="Shader" path="res://TileShader.gdshader" id="1_kih2o"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_kih2o")
+shader_parameter/margin = 0.005
